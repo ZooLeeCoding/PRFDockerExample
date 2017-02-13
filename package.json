@@ -1,0 +1,22 @@
+{
+  "name": "prfdockerexample",
+  "version": "1.0.0",
+  "description": "PRF gyakorlatra Docker projekt bemutató",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZooLeeCoding/PRFDockerExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZooLeeCoding/PRFDockerExample/issues"
+  },
+  "homepage": "https://github.com/ZooLeeCoding/PRFDockerExample#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
